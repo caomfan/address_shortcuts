@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\opencode\extention\ollydbg\ollydbg-address-shortcuts\address_shortcuts.c">
+    <ClCompile Include="address_shortcuts.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
